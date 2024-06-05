@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CommandTM)](https://github.com/anuraghazra/github-readme-stats)
+<embed align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CommandTM&langs_count=100&hide=Roff&layout=pie)](https://github.com/anuraghazra/github-readme-stats)</embed>
